@@ -1,0 +1,1 @@
+draw_text(10, 10, "event_map size: " + string(ds_map_size(event_map)));
